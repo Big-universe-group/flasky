@@ -3,6 +3,11 @@
 # C extensions
 *.so
 
+# bamboo
+*.sw[po]
+*.bak
+*.py[co]
+
 # Packages
 *.egg
 *.egg-info
